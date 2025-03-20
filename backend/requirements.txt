@@ -1,0 +1,5 @@
+flask
+flask-cors
+openai
+duckdb
+python-dotenv
